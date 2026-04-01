@@ -1,3 +1,3 @@
 # leetcode-solutions
 
-providing best solution to leetcode problems
+providing best solution to leetcode problems in java
